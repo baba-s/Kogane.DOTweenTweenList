@@ -1,1 +1,3 @@
-# Kogane.DOTweenTweenList
+# Kogane DOTween Tween List
+
+DOTween の Tween をリストで管理するクラス
